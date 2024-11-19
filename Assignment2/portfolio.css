@@ -1,0 +1,31 @@
+.hero{
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+}
+
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.profile_pic{
+    width: 200px;
+    height: 225px;
+    border-radius: 50%;
+}
+
+.description{
+    text-align: justify;
+}
+.table {
+    background-color: transparent; 
+   
+}
+
+.table th,
+.table td {
+    background-color: transparent; 
+}
